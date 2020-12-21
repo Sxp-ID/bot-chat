@@ -1,4 +1,4 @@
 # bot-chat
-```bash
+```python
 Tools Bot Chat for people JOMBLO awokawok :v
 ```
