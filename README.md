@@ -6,6 +6,7 @@ Tools Bot Chat for people JOMBLO awokawok :v
 ## How to it?
 ```php
 $ cd bot-chat
+$ pip install -r requirements.txt
 $ python main.py
 ```
 ## Support Me On
