@@ -1,5 +1,5 @@
 # Bot-Chat
-```bash
+```
 Tools Bot Chat for people JOMBLO awokawok :v
 ```
 > Script ini sewaktu-waktu bisa coid jadi jangan salahin author nya ya goblok.
